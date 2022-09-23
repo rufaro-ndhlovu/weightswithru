@@ -4,6 +4,10 @@ In this project, i built my own club group page that dynamically responds as you
 
 My website is based on a weightlifting club that i made up as it is my favorite form of exercise.
 
+**Click on the link below to take a look at the website:**
+
+https://rufaro-ndhlovu.github.io/weightswithru/
+
 ## :computer: Project Objectives 
 
 
